@@ -2,6 +2,12 @@
 name = "arvore"
 version = "0.1.0"
 edition = "2024"
+description = "Terminal playground for learning tree data structures: BST, AVL, Red-Black, B-Tree, Trie, Heap"
+license = "MIT"
+repository = "https://github.com/snake-outerheaven/arvore"
+readme = "README.md"
+keywords = ["tree", "data-structures", "tui", "education", "visualization"]
+categories = ["command-line-utilities", "visualization", "education"]
 
 [dependencies]
 ratatui = "0.30.2"
